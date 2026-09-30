@@ -1,0 +1,8 @@
+# binaries and local run artifacts
+/harness/aabot
+/localcheck/
+/out/
+/ref/
+/corpus/
+*.test
+*.prof
